@@ -1,0 +1,414 @@
+# Translation of Themes - Shifters Lite in Russian
+# This file is distributed under the same license as the Themes - Shifters Lite package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-07-25 17:57:43+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Shifters Lite\n"
+
+#. Description of the theme
+msgid "Shifters Lite is a attractive, sleek, intuitive, responsive and multi-purpose logistics WordPress theme suitable for logistics, transportation and general moving services. If you are in the business which provides services like delivery and shipping, this theme will be a perfect platform to consider for a digital presence of your business that will keep your clients happy and engaged. It has a professional orientation with neat little features which makes it a brilliant choice for transportation business and services. This multi-purpose logistics WordPress theme is ideal for any transportation related industries like trucking, air cargo, air transport, movers and packers, warehousing, general logistics, and other related businesses. It can also be used for corporate, construction, architecture firm, yoga, gym, fitness club, NGO, travel, adventure, personal blog, digital agency, marketing and any other business website. Demo Link: http://gracethemesdemo.com/shifters/"
+msgstr "Shifters Lite — привлекательная, изящная, интуитивно понятная, адаптивная и многоцелевая для тема WordPress, подходящая для логистических, транспортных и других услуг по перевозке. Если вы занимаетесь бизнесом, предоставляющим такие услуги, как доставка и отправка, эта тема станет идеальной платформой для цифрового бизнеса, которая будет радовать и привлекать ваших клиентов. Она имеет профессиональную ориентацию и некоторые возможности, что делает её отличным выбором для транспорного бизнеса и услуг. Эта многоцелевая логистическая WordPress-тема идеально подходит для любых отраслей, связанных с транспортировкой, таких как грузоперевозки, авиаперевозки, воздушный транспорт, грузчики и упаковщики, складирование, общая логистика и другие связанные с этим предприятия. Тема может также использоваться для корпоративного, строительного, архитектурного бюро, йоги, спортзала, фитнес-клуба, неправительственной организации, путешествий, приключений, личного блога, цифрового агентства, маркетинга и любого другого делового сайта. Демо: http://gracethemesdemo.com/shifters/"
+
+#. Theme Name of the theme
+msgid "Shifters Lite"
+msgstr "Shifters Lite"
+
+#: comments.php:69
+msgid "Comments are closed."
+msgstr "Обсуждение закрыто."
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:35
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s комментарий к «%2$s»"
+msgstr[1] "%1$s комментария к «%2$s»"
+msgstr[2] "%1$s комментариев к «%2$s»"
+
+#. translators: %s: post title
+#: comments.php:30
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Один комментарий к «%s»"
+
+#: inc/customizer.php:507
+msgid "Check to hide sidebar from all pages"
+msgstr "Отметьте, чтобы скрыть область виджетов со всех страниц"
+
+#: inc/customizer.php:494
+msgid "Check to hide sidebar from single post"
+msgstr "Отметьте, чтобы скрыть область виджетов с одной записи"
+
+#: inc/customizer.php:480
+msgid "Check to hide sidebar from latest post page"
+msgstr "Отметьте, чтобы скрыть область виджетов со страницы с последней записью"
+
+#: inc/customizer.php:466
+msgid "Sidebar Options"
+msgstr "Настройки области виджетов"
+
+#: inc/customizer.php:411
+msgid "Select Pages from the dropdown for welcome section"
+msgstr "Выберите страницы из выпадающего списка для приветственного раздела"
+
+#: inc/customizer.php:410
+msgid "Welcome Section"
+msgstr "Приветственный раздел"
+
+#: inc/customizer.php:344
+msgid "Select pages from the dropdown for services section"
+msgstr "Выберите страницы из выпадающего списка для раздела услуг"
+
+#: inc/customizer.php:343
+msgid "top 4 Column Sections"
+msgstr "4 верхних столбца разделов"
+
+#: inc/customizer.php:336 inc/customizer.php:403 inc/customizer.php:460
+msgid "Check To Show This Section"
+msgstr "Отметьте, чтобы показывать этот раздел"
+
+#: inc/customizer.php:322
+msgid "Add slider Read more button name here"
+msgstr "Укажите название кнопки «Читать далее» в слайдере"
+
+#: inc/customizer.php:311
+msgid "Select page for slider third:"
+msgstr "Выберите страницу для третьего слайдера:"
+
+#: inc/customizer.php:299
+msgid "Select page for slider second:"
+msgstr "Выберите страницу для второго слайдера:"
+
+#: inc/customizer.php:287
+msgid "Select page for slider first:"
+msgstr "Выберите страницу для первого слайдера:"
+
+#: inc/customizer.php:275
+msgid "Default image size for slider is 1400 x 730 pixel."
+msgstr "Размер изображения по умолчанию для слайдера составляет 1400x730 пикселей."
+
+#: inc/customizer.php:273
+msgid "Slider Section"
+msgstr "Раздел слайдера"
+
+#: inc/customizer.php:252
+msgid "Add linkedin link here"
+msgstr "Добавьте ссылку на LinkedIn"
+
+#: inc/customizer.php:241
+msgid "Add google plus link here"
+msgstr "Добавьте ссылку на Google+"
+
+#: inc/customizer.php:230
+msgid "Add twitter link here"
+msgstr "Добавьте ссылку на Твиттер"
+
+#: inc/customizer.php:219
+msgid "Add facebook link here"
+msgstr "Добавьте ссылку на Facebook"
+
+#: inc/customizer.php:208
+msgid "Add social icons link here to display icons in header."
+msgstr "Добавьте ссылки для социальных значков, чтобы показывать их в заголовке."
+
+#: inc/customizer.php:207
+msgid "Header social icons"
+msgstr "Социальные значки в заголовке"
+
+#: inc/customizer.php:200
+msgid "Check To show Enquiry button"
+msgstr "Отметьте, чтобы показывать кнопку запроса"
+
+#: inc/customizer.php:186
+msgid "Add link for Get an Enquiry button"
+msgstr "Добавьте ссылку для кнопки «Запросить»"
+
+#: inc/customizer.php:175
+msgid "Add Get an Enquiry button text here"
+msgstr "Укажите текст кнопки «Запросить»"
+
+#: content.php:30
+msgid "Read more &rarr;"
+msgstr "Читать далее &rarr;"
+
+#: content-single.php:15 content.php:19
+msgid ", "
+msgstr ", "
+
+#: sidebar.php:25
+msgid "Meta"
+msgstr "Мета"
+
+#: sidebar.php:18
+msgid "Archives"
+msgstr "Архивы"
+
+#: sidebar.php:11
+msgid "Category"
+msgstr "Рубрика"
+
+#: header.php:273
+msgid "View Details"
+msgstr "Детали"
+
+#: header.php:157
+msgid "Menu"
+msgstr "Меню"
+
+#: functions.php:94
+msgid "Footer Widget 4"
+msgstr "Виджет 4 нижней части"
+
+#: functions.php:84
+msgid "Footer Widget 3"
+msgstr "Виджет 3 нижней части"
+
+#: functions.php:74
+msgid "Footer Widget 2"
+msgstr "Виджет 2 нижней части"
+
+#: functions.php:65 functions.php:75 functions.php:85 functions.php:95
+msgid "Appears on footer"
+msgstr "Видно в нижней части"
+
+#: functions.php:64
+msgid "Footer Widget 1"
+msgstr "Виджет 1 нижней части"
+
+#: functions.php:54
+msgid "Blog Sidebar"
+msgstr "Область виджетов блога"
+
+#: functions.php:45
+msgid "Footer Menu"
+msgstr "Меню нижней части"
+
+#: functions.php:44
+msgid "Primary Menu"
+msgstr "Основное меню"
+
+#: content-single.php:23 content.php:37 image.php:56 content-page.php:18
+#: template-full-width.php:23 content-search.php:28
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: content.php:34
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Читать далее <span class=\"meta-nav\">&rarr;</span>"
+
+#: header.php:124
+msgid "Send us mail"
+msgstr "Отправьте нам письмо"
+
+#: header.php:112
+msgid "Call Us"
+msgstr "Позвоните нам"
+
+#: header.php:61
+msgid "We are Open:"
+msgstr "Мы открыты:"
+
+#: inc/about-themes.php:11 inc/about-themes.php:20
+msgid "About Theme Info"
+msgstr "Информация о теме"
+
+#: image.php:36
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Далее <span class=\"meta-nav\">&rarr;</span>"
+
+#: image.php:35
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr "<span class=\"meta-nav\">&larr;</span> Назад"
+
+#: searchform.php:12
+msgctxt "submit button"
+msgid "Search"
+msgstr "Найти"
+
+#: searchform.php:10
+msgctxt "placeholder"
+msgid "Search..."
+msgstr "Поиск…"
+
+#: 404.php:17
+msgid "Looks like you have taken a wrong turn.....<br />Don't worry... it happens to the best of us."
+msgstr "Кажется, вы ошиблись…<br />Не волнуйтесь… это случается с лучшими из нас."
+
+#: 404.php:14
+msgid "404 Not Found"
+msgstr "404 Не найдено"
+
+#. translators: %s: search term
+#: search.php:17
+msgid "Search Results for: %s"
+msgstr "Результаты поиска «%s»"
+
+#: content-single.php:34 image.php:30 image.php:62 content-page.php:23
+#: content-search.php:39
+msgid "Edit"
+msgstr "Изменить"
+
+#: customize-pro/example-1/class-customize.php:77
+msgid "Upgrade Now"
+msgstr "Обновить сейчас"
+
+#: customize-pro/example-1/class-customize.php:76
+msgid "Upgrade to Pro"
+msgstr "Обновить до PRO"
+
+#: no-results.php:26
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Запрошенную информацию найти не удалось. Возможно, будет полезен поиск по сайту."
+
+#: no-results.php:21
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Извините, по вашему запросу ничего не найдено. Попробуйте другие ключевые слова."
+
+#: no-results.php:17
+msgid "Ready to publish your first post? Get started here."
+msgstr "Готовы опубликовать свою первую запись? Начните отсюда."
+
+#: no-results.php:12
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: footer.php:44
+msgid "Theme by Grace Themes"
+msgstr "Тема от Grace Themes"
+
+#. Translators: If there are any character that are not * supported by
+#. Assistant, trsnalate this to off, do not * translate into your own language.
+#: functions.php:114
+msgctxt "Assistant:on or off"
+msgid "on"
+msgstr "off"
+
+#: functions.php:55
+msgid "Appears on blog page sidebar"
+msgstr "Видно в области виджетов на странице блога"
+
+#: inc/about-themes.php:22
+msgid "Shifters Lite is a attractive, sleek, intuitive, responsive and multi-purpose logistics WordPress theme suitable for logistics, transportation and general moving services. If you are in the business which provides services like delivery and shipping, this theme will be a perfect platform to consider for a digital presence of your business that will keep your clients happy and engaged. It has a professional orientation with neat little features which makes it a brilliant choice for transportation business and services. This multi-purpose logistics WordPress theme is ideal for any transportation related industries like trucking, air cargo, air transport, movers and packers, warehousing, general logistics, and other related businesses. It can also be used for corporate, construction, architecture firm, yoga, gym, fitness club, NGO, travel, adventure, personal blog, digital agency, marketing and any other business website."
+msgstr "Shifters Lite — привлекательная, изящная, интуитивно понятная, адаптивная и многоцелевая для тема WordPress, подходящая для логистических, транспортных и других услуг по перевозке. Если вы занимаетесь бизнесом, предоставляющим такие услуги, как доставка и отправка, эта тема станет идеальной платформой для цифрового бизнеса, которая будет радовать и привлекать ваших клиентов. Она имеет профессиональную ориентацию и некоторые возможности, что делает её отличным выбором для транспорного бизнеса и услуг. Эта многоцелевая логистическая WordPress-тема идеально подходит для любых отраслей, связанных с транспортировкой, таких как грузоперевозки, авиаперевозки, воздушный транспорт, грузчики и упаковщики, складирование, общая логистика и другие связанные с этим предприятия. Тема может также использоваться для корпоративного, строительного, архитектурного бюро, йоги, спортзала, фитнес-клуба, неправительственной организации, путешествий, приключений, личного блога, цифрового агентства, маркетинга и любого другого делового сайта."
+
+#: inc/customizer.php:41
+msgid "Site Layout Options"
+msgstr "Настройки разметки сайта"
+
+#: inc/customizer.php:36
+msgid "Theme Options Panel"
+msgstr "Панель настроек темы"
+
+#: inc/about-themes.php:50
+msgid "Documentation"
+msgstr "Документация"
+
+#: inc/about-themes.php:49
+msgid "Live Demo"
+msgstr "Демо"
+
+#: inc/about-themes.php:43
+msgid "Fully compatible with WooCommerce plugin. Just install the plugin and turn your site into a full featured online shop and start selling products."
+msgstr "Полная совместимость с плагином WooCommerce. Просто установите плагин и превратите свой сайт в полнофункциональный интернет-магазин и начинайте продавать товары."
+
+#: inc/about-themes.php:42
+msgid "E-commerce"
+msgstr "Электронная коммерция"
+
+#: inc/about-themes.php:38
+msgid "Our themes are tested in all mordern web browsers and compatible with the latest version including Chrome,Firefox, Safari, Opera, IE11 and above."
+msgstr "Наши темы проверены во всех современных браузерах, включая Chrome, Firefox, Safari, Opera, IE11 и выше, и совместимы с их последними версиями."
+
+#: inc/about-themes.php:37
+msgid "Cross Browser Compatible"
+msgstr "Совместимость с браузерами"
+
+#: inc/about-themes.php:33
+msgid "The themes layout will automatically adjust and fit on any screen resolution and looks great on any device. Fully optimized for iPhone and iPad."
+msgstr "Разметка тем автоматически подстраивается под любое разрешение экрана и отлично смотрится на любом устройстве. Полностью оптимизировано под iPhone и iPad."
+
+#: inc/about-themes.php:32
+msgid "Responsive Ready"
+msgstr "Адаптивный дизайн"
+
+#: inc/about-themes.php:28
+msgid "The built-in customizer panel quickly change aspects of the design and display changes live before saving them."
+msgstr "Встроенная панель настройщика быстро меняет дизайн и отображает изменения в реальном времени перед их сохранением."
+
+#: inc/about-themes.php:27
+msgid "Theme Customizer"
+msgstr "Настройщик темы"
+
+#: inc/about-themes.php:23
+msgid "Theme Features"
+msgstr "Возможности темы"
+
+#: inc/customizer.php:118
+msgid "Add office time"
+msgstr "Укажите рабочее время"
+
+#: inc/customizer.php:106
+msgid "Header Contact info"
+msgstr "Контактная информация в заголовке"
+
+#: inc/customizer.php:99
+msgid "Check to show sticky header on scroll"
+msgstr "Отметьте, чтобы заголовок не двигался при прокрутке"
+
+#: inc/customizer.php:87
+msgid "Sticky Header"
+msgstr "Бездвижный заголовок при прокрутке"
+
+#: inc/customizer.php:78
+msgid "Hover Color Options"
+msgstr "Настройки цвета при наведении"
+
+#: inc/customizer.php:65 inc/customizer.php:79
+msgid "More color options in PRO Version"
+msgstr "Больше цветовых настрек в PRO-версии"
+
+#: inc/customizer.php:64
+msgid "Color Options"
+msgstr "Цветовые настройки"
+
+#: inc/customizer.php:53
+msgid "If you want to box layout please check the Box Layout Option."
+msgstr "Если вы хотите создать разметку, пожалуйста, включите настройку разметки."
+
+#: inc/customizer.php:52
+msgid "Check to Box Layout"
+msgstr "Включите настройку разметки"
+
+#: inc/customizer.php:142
+msgid "Add email address here."
+msgstr "Укажите адрес электронной почты."
+
+#: inc/customizer.php:130
+msgid "Add phone number here"
+msgstr "Укажите номер телефона"
+
+#: inc/customizer.php:163
+msgid "Add button text and link to show Get an Enquiry button"
+msgstr "Укажите текст кнопки и ссылку, чтобы показывать кнопку «Запросить»"
+
+#: inc/customizer.php:162
+msgid "Get an Enquiry Button"
+msgstr "Кнопка «Запросить»"
+
+#: inc/customizer.php:156 inc/customizer.php:266
+msgid "Check To show This Section"
+msgstr "Отметьте, чтобы показывать этот раздел"
+
+#. Author of the theme
+msgid "Grace Themes"
+msgstr "Grace Themes"
+
+#. Theme URI of the theme
+msgid "https://gracethemes.com/themes/free-logistics-wordpress-theme/"
+msgstr "https://gracethemes.com/themes/free-logistics-wordpress-theme/"

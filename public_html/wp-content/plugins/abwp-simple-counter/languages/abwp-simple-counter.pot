@@ -1,0 +1,146 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Simple Counter\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-03-25 14:04+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.1; wp-5.1.1"
+
+#: includes/page-admin-counters.php:106
+msgid ""
+"<i>Select the place of installation of the counter: at the beginning of page,"
+" end of page or in custom place. For installation in custom place use "
+"shortcode </i><code>[simple-counter id=\"analytics\"]</code><i> or in the "
+"theme file of the website </i><code>&lt;?php echo do_shortcode('[simple-"
+"counter id=\"analytics\"]'); ?&gt;</code>"
+msgstr ""
+
+#: includes/page-admin-counters.php:57
+msgid ""
+"<i>Select the place of installation of the counter: at the beginning of page,"
+" end of page or in custom place. For installation in custom place use "
+"shortcode </i><code>[simple-counter id=\"metrika\"]</code><i> or in the "
+"theme file of the website </i><code>&lt;?php echo do_shortcode('[simple-"
+"counter id=\"metrika\"]'); ?&gt;</code>"
+msgstr ""
+
+#. Author of the plugin
+msgid "AB-WP"
+msgstr ""
+
+#: includes/page-admin-counters.php:30
+msgid "Add counter"
+msgstr ""
+
+#: includes/page-admin-counters.php:19
+msgid "Add site"
+msgstr ""
+
+#: includes/page-admin-counters.php:52 includes/page-admin-counters.php:101
+msgid "Closer to the top of the page"
+msgstr ""
+
+#: includes/page-admin-counters.php:54 includes/page-admin-counters.php:103
+msgid "Custom place"
+msgstr ""
+
+#: includes/page-admin-counters.php:78 includes/page-admin-counters.php:82
+#: includes/page-admin-counters.php:95
+msgid "Google Analytics"
+msgstr ""
+
+#: includes/admin-counters.php:42
+msgid "Google Analytics Help Center"
+msgstr ""
+
+#: includes/page-admin-counters.php:63
+msgid "Google Search Console"
+msgstr ""
+
+#: includes/admin-counters.php:37
+msgid "Google Search Console Help Center"
+msgstr ""
+
+#: includes/page-admin-counters.php:65
+msgid "Google Search Console HTML verification code"
+msgstr ""
+
+#: includes/admin-counters.php:27 includes/admin-counters.php:32
+msgid "help"
+msgstr ""
+
+#: includes/admin-counters.php:55
+msgid "Help & support"
+msgstr ""
+
+#: includes/page-admin-counters.php:27 includes/page-admin-counters.php:80
+msgid "HTML code counter"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://ab-wp.com/"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://ab-wp.com/plugins/simple-counter/"
+msgstr ""
+
+#: includes/page-admin-counters.php:14 includes/page-admin-counters.php:68
+msgid "Insert code"
+msgstr ""
+
+#: includes/page-admin-counters.php:43 includes/page-admin-counters.php:95
+msgid "Location counter"
+msgstr ""
+
+#: includes/page-admin-counters.php:29
+msgid "My counters"
+msgstr ""
+
+#: includes/page-admin-counters.php:18 includes/page-admin-counters.php:72
+msgid "My sites"
+msgstr ""
+
+#: includes/admin-counters.php:49
+msgid "Overview"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Simple adding the most common counters to the site in the administrative "
+"part of the blog."
+msgstr ""
+
+#. Name of the plugin
+#: simple-counter.php:50 simple-counter.php:51
+msgid "Simple Counter"
+msgstr ""
+
+#: includes/page-admin-counters.php:49 includes/page-admin-counters.php:99
+msgid "Towards the end of the page"
+msgstr ""
+
+#: includes/page-admin-counters.php:25 includes/page-admin-counters.php:43
+msgid "Yandex.Metrica"
+msgstr ""
+
+#: includes/admin-counters.php:32
+msgid "Yandex.Metrika"
+msgstr ""
+
+#: includes/page-admin-counters.php:9 includes/admin-counters.php:27
+msgid "Yandex.Webmaster"
+msgstr ""
+
+#: includes/page-admin-counters.php:11
+msgid "Yandex.Webmaster HTML verification code"
+msgstr ""

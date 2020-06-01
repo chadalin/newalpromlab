@@ -1,0 +1,543 @@
+# Translation of Themes - StartKit in Russian
+# This file is distributed under the same license as the Themes - StartKit package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-09-20 12:02:36+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - StartKit\n"
+
+#. Description of the theme
+msgid "StartKit is a unique, clean and professional-looking WordPress theme, perfect for all online digital business. A great variety of layouts and styles allows the creation of different structures and satisfies any specific requirement. The frontend and backend features are focused ease of use so that visitors can get the best user experience. View the demo of StartKit Pro https://www.nayrathemes.com/demo/pro/?theme=startkit"
+msgstr "StartKit - это уникальная, чистая и профессиональная тема WordPress, идеальная для любого цифрового бизнеса в онлайн мире. Большое разнообразие разметок и стилей позволяет создавать различные структуры и удовлетворяет любые специфические запросы. Особенности фронтэнда и бекэнда сфокусированы на простоте использования, чтобы посетители получили лучший пользовательский опыт. Просмотреть демо-версию StartKit Pro https://www.nayrathemes.com/demo/pro/?theme=startkit"
+
+#. Theme Name of the theme
+msgid "StartKit"
+msgstr "StartKit"
+
+#: inc/customize/startkit-breadcrumb.php:40
+msgid "Hide/Show breadcrumbs"
+msgstr "Показать/Скрыть хлебные крошки"
+
+#: inc/sidebar/sidebar.php:20
+msgid "Primary widget area"
+msgstr "Основная область вижетов"
+
+#: 404.php:23
+msgid "Ops! Something happened..."
+msgstr "Ой! Что-то пошло не так..."
+
+#. Template Name of the theme
+msgid "Default homepage"
+msgstr "Домашняя страница по умолчанию"
+
+#: inc/customize/startkit-premium.php:35
+msgid "Show Some Love"
+msgstr "Проявите немного любви"
+
+#: inc/customize/startkit-premium.php:31
+msgid "Free Vs Pro"
+msgstr "Бесплатная и профессиональная"
+
+#: inc/customize/startkit-premium.php:29
+msgid "Get Support"
+msgstr "Получить поддрежку"
+
+#: header.php:24
+msgid "Skip to content"
+msgstr "Перейти к содержимому"
+
+#: inc/customize/startkit-premium.php:27
+msgid "View Documentation"
+msgstr "Посмотреть документацию"
+
+#: inc/customize/startkit-premium.php:12 inc/customize/startkit-premium.php:33
+msgid "Upgrade to Pro"
+msgstr "Обновитесь до PRO"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:401
+msgid "Delete %s"
+msgstr "Удалить %s"
+
+#: functions.php:73
+msgid "Grey"
+msgstr "Серый"
+
+#: functions.php:68
+msgid "Green"
+msgstr "Зеленый"
+
+#: functions.php:63
+msgid "Yellow"
+msgstr "Жёлтый"
+
+#: functions.php:58
+msgid "Secondary"
+msgstr "Вторичный"
+
+#: functions.php:53
+msgid "Primary"
+msgstr "Основной"
+
+#: template-parts/content-none.php:27
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Кажется, мы не можем найти то, что вы ищете. Возможно, поиск может помочь."
+
+#: template-parts/content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Жаль, но по данному запросу ничего не найдено. Пожалуйста, попробуйте снова, используя другие ключевые слова."
+
+#: template-parts/content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готовы опубликовать свою первую запись? <a href=\"%1$s\">Начните здесь</a>."
+
+#: template-parts/content.php:38
+msgid "Pages:"
+msgstr "Страниц:"
+
+#: functions.php:30
+msgid "Primary Menu"
+msgstr "Основное меню"
+
+#. Template Name of the theme
+msgid "Page Fullwidth"
+msgstr "Страница на всю ширину"
+
+#: inc/class-wp-bootstrap-navwalker.php:371
+msgid "Add a menu"
+msgstr "Добавить меню"
+
+#: inc/breadcrumb/breadcrumb.php:146
+msgid "Page"
+msgstr "Страница"
+
+#: inc/breadcrumb/breadcrumb.php:141
+msgid "Error 404 "
+msgstr "Ошибка 404"
+
+#: inc/breadcrumb/breadcrumb.php:137
+msgid "Article posted by "
+msgstr "Статья, опубликована"
+
+#: inc/breadcrumb/breadcrumb.php:131
+msgid "Posts tagged "
+msgstr "Затеганные записи"
+
+#: inc/breadcrumb/breadcrumb.php:32
+msgid "Search results for "
+msgstr "Поисковые результаты для"
+
+#: inc/breadcrumb/breadcrumb.php:26
+msgid "Archive by category"
+msgstr "Архив рубрики"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:663
+#: inc/customizer-repeater/class/customizer-repeater-control.php:696
+msgid "Add Icon"
+msgstr "Добавить иконку"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:658
+#: inc/customizer-repeater/class/customizer-repeater-control.php:688
+msgid "Remove Icon"
+msgstr "Удалить иконку"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:641
+msgid "Social icons"
+msgstr "Значки соцсетей"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:633
+msgid "None"
+msgstr "Нет"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:628
+msgid "Image type"
+msgstr "Тип изображения"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:621
+msgid "Upload Image"
+msgstr "Загрузить изображение"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:618
+#: inc/customizer-repeater/class/customizer-repeater-control.php:632
+msgid "Image"
+msgstr "Изображение"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:583
+msgid "http://fontawesome.io/icons/"
+msgstr "http://fontawesome.io/icons/"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:582
+msgid "Note: Some icons may not be displayed here. You can see the full list of icons at %1$s."
+msgstr "Примечание: Некоторые иконки могут здесь не отображаться. Полный список иконок доступен тут: %1$s."
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:566
+msgid "Open link in new tab:"
+msgstr "Открыть ссылку в новой вкладке:"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:468
+msgid "skill"
+msgstr "навык"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:529
+msgid "Delete field"
+msgstr "Удалить поле"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:385
+#: inc/customizer-repeater/class/customizer-repeater-control.php:518
+msgid "Designation"
+msgstr "Обозначение"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:377
+#: inc/customizer-repeater/class/customizer-repeater-control.php:509
+msgid "Shortcode"
+msgstr "Шорткод"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:367
+#: inc/customizer-repeater/class/customizer-repeater-control.php:431
+msgid "Color"
+msgstr "Цвет"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:343
+#: inc/customizer-repeater/class/customizer-repeater-control.php:498
+msgid "Video Url"
+msgstr "URL видео"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:329
+#: inc/customizer-repeater/class/customizer-repeater-control.php:485
+#: inc/customizer-repeater/class/customizer-repeater-control.php:655
+#: inc/customizer-repeater/class/customizer-repeater-control.php:677
+msgid "Link"
+msgstr "Ссылка"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:318
+#: inc/customizer-repeater/class/customizer-repeater-control.php:475
+msgid "Button Text"
+msgstr "Текст кнопки"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:310
+msgid "skills"
+msgstr "навыки"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:303
+#: inc/customizer-repeater/class/customizer-repeater-control.php:461
+msgid "Button Label"
+msgstr "Текст кнопки"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:289
+#: inc/customizer-repeater/class/customizer-repeater-control.php:447
+msgid "Subtitle"
+msgstr "Подзаголовок"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:39
+msgid "Customizer Repeater"
+msgstr "Customizer Repeater"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:34
+msgid "Add new field"
+msgstr "Добавить новое поле"
+
+#: inc/sidebar/sidebar.php:30
+msgid "Footer widget area"
+msgstr "Область виджетов в подвале"
+
+#: inc/sidebar/sidebar.php:28
+msgid "Footer widget  area"
+msgstr "Область виджета подвала"
+
+#: inc/sidebar/sidebar.php:18
+msgid "Sidebar Widget Area"
+msgstr "Область виджетов боковой панели"
+
+#: inc/customizer-notify/startkit-customizer-notify.php:111
+msgid "Activating"
+msgstr "Активация"
+
+#: inc/custom-controls/install_plugin/startkit_plugin_helper.php:116
+msgid "Activating "
+msgstr "Активация"
+
+#: inc/custom-controls/install_plugin/startkit_plugin_helper.php:60
+msgid "Install and activate"
+msgstr "Установить и активировать"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:69
+msgid "Edit %s"
+msgstr "Редактировать %s"
+
+#. translators: %s: post title
+#: inc/template-tags.php:62
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Оставить комментарий<span class=\"screen-reader-text\"> на %s</span>"
+
+#: inc/template-tags.php:55
+msgid "Tagged %1$s"
+msgstr "Tagged %1$s"
+
+#: inc/template-tags.php:49
+msgid "Posted in %1$s"
+msgstr "Опубликовано в рубрике %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:47 inc/template-tags.php:53
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:32
+msgctxt "post author"
+msgid "by %s"
+msgstr "автором %s"
+
+#: inc/template-tags.php:27
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Опубликовано %s"
+
+#: inc/customize/startkit-header.php:164
+msgid "Sticky Header"
+msgstr "Прикрепленный заголовок"
+
+#: inc/customize/startkit-header.php:151
+msgid "Button link"
+msgstr "Ссылка кнопки"
+
+#: inc/customize/startkit-header.php:132
+msgid "Button label"
+msgstr "Текст командной кнопки"
+
+#: inc/customize/startkit-header.php:114
+msgid "Button Icon"
+msgstr "Иконка кнопки"
+
+#: inc/customize/startkit-header.php:105
+msgid "fa-book"
+msgstr "fa-book"
+
+#: inc/customize/startkit-header.php:75
+msgid "Button Setting"
+msgstr "Кнопка настройки"
+
+#: inc/customize/startkit-header.php:61
+msgid "Search Icon"
+msgstr "Найти значок"
+
+#: inc/customize/startkit-header.php:24
+msgid "Header Search"
+msgstr "Поиск в шапке"
+
+#: inc/customize/startkit-header.php:12
+msgid "Header Section"
+msgstr "Шапка сайта (Header)"
+
+#: inc/customize/startkit-breadcrumb.php:69
+msgid "Background Image"
+msgstr "Изображение фона"
+
+#: inc/customize/startkit-breadcrumb.php:51
+msgid "Background"
+msgstr "Фон"
+
+#: inc/customize/startkit-navigation.php:17
+#: inc/customize/startkit-navigation.php:74
+#: inc/customize/startkit-breadcrumb.php:22
+msgid "Settings"
+msgstr "Настройки"
+
+#: inc/customize/startkit-breadcrumb.php:12
+msgid "Page breadcrumbs"
+msgstr "Хлебные крошки страницы"
+
+#: inc/customize/startkit-navigation.php:89
+msgid "Content"
+msgstr "Содержимое"
+
+#: inc/customize/startkit-navigation.php:81
+msgid "Header"
+msgstr "Заголовок"
+
+#: inc/customize/startkit-blog.php:89
+msgid "Select number of Posts"
+msgstr "Выберите количество записей"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:296
+#: inc/customizer-repeater/class/customizer-repeater-control.php:454
+#: inc/customize/startkit-blog.php:68
+msgid "Description"
+msgstr "Описание"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:281
+#: inc/customizer-repeater/class/customizer-repeater-control.php:439
+#: inc/customize/startkit-blog.php:50
+msgid "Title"
+msgstr "Название"
+
+#: inc/customize/startkit-blog.php:9
+msgid "Blog Section"
+msgstr "Раздел блога"
+
+#: inc/customizer-repeater/class/customizer-repeater-control.php:577
+#: inc/customizer-repeater/class/customizer-repeater-control.php:631
+#: inc/customize/startkit-footer.php:115
+msgid "Icon"
+msgstr "Иконка"
+
+#: inc/customize/startkit-footer.php:114
+msgid "Add New Icon"
+msgstr "Добавить новый значок"
+
+#: inc/customize/startkit-footer.php:71 inc/customize/startkit-footer.php:112
+msgid "Payment Icon"
+msgstr "Значки для оплаты"
+
+#: inc/customize/startkit-blog.php:31 inc/customize/startkit-footer.php:38
+#: inc/customize/startkit-footer.php:91 inc/customize/startkit-header.php:42
+#: inc/customize/startkit-header.php:95 inc/customize/startkit-header.php:183
+msgid "Hide / Show Section"
+msgstr "Скрыть/Показать Раздел"
+
+#: inc/breadcrumb/breadcrumb.php:4 inc/breadcrumb/breadcrumb.php:7
+#: inc/customize/startkit-blog.php:21 inc/customize/startkit-breadcrumb.php:31
+#: inc/customize/startkit-footer.php:28 inc/customize/startkit-footer.php:81
+#: inc/customize/startkit-header.php:32 inc/customize/startkit-header.php:85
+#: inc/customize/startkit-header.php:174
+msgid "1"
+msgstr "1"
+
+#: inc/customize/startkit-footer.php:17 inc/customize/startkit-footer.php:58
+msgid "Copyright Content"
+msgstr "Авторские права"
+
+#: inc/customize/startkit-footer.php:10
+msgid "Footer Section"
+msgstr "Подвал"
+
+#: inc/customize/startkit-navigation.php:43
+msgid "Third"
+msgstr "Третий"
+
+#: inc/customize/startkit-navigation.php:34
+msgid "Second"
+msgstr "Второе"
+
+#: inc/customize/startkit-navigation.php:25
+msgid "First"
+msgstr "Имя"
+
+#: inc/customize/customizer_recommended_plugin.php:18
+msgid "Deactivate"
+msgstr "Неактивно"
+
+#: inc/custom-controls/install_plugin/startkit_plugin_helper.php:80
+#: inc/customize/customizer_recommended_plugin.php:17
+msgid "Activate"
+msgstr "Активировать"
+
+#: inc/customize/customizer_recommended_plugin.php:16
+msgid "Install and Activate"
+msgstr "Установить и активировать"
+
+#: inc/customize/customizer_recommended_plugin.php:15
+msgid "Recommended Plugin"
+msgstr "Рекомендуемый плагин"
+
+#: inc/customize/customizer_recommended_plugin.php:14
+msgid "Recommended Actions"
+msgstr "Рекомендуемые действия"
+
+#: inc/customizer.php:42
+msgid "Homepage Section"
+msgstr "Раздел домашней страницы"
+
+#: sections/startkit-navigation.php:73
+msgid "type here"
+msgstr "введите здесь"
+
+#: sections/startkit-breadcrumb.php:38
+msgid "Author: %s"
+msgstr "Автор: %s"
+
+#: sections/startkit-breadcrumb.php:34
+msgid "Error 404"
+msgstr "Ошибка 404"
+
+#: sections/startkit-breadcrumb.php:30
+msgid "Tag Archives: %s"
+msgstr "Архив меток: %s"
+
+#: sections/startkit-breadcrumb.php:26
+msgid "Category Archives: %s"
+msgstr "Архив рубрик: %s"
+
+#: sections/startkit-blog.php:49
+msgid "Categories:"
+msgstr "Рубрики:"
+
+#: 404.php:24 inc/breadcrumb/breadcrumb.php:6
+msgid "Home"
+msgstr "Главная"
+
+#: 404.php:22
+msgid "404"
+msgstr "404"
+
+#: sections/startkit-blog.php:42 single.php:51
+#: template-parts/content-page.php:40 template-parts/content-search.php:40
+#: template-parts/content-page_grid.php:54
+msgid "By"
+msgstr "Автор:"
+
+#: single.php:50 template-parts/content-page.php:39
+#: template-parts/content-search.php:39 template-parts/content-page_grid.php:53
+msgid "Comments"
+msgstr "Комментарии"
+
+#. translators: %s: Name of current post.
+#: sections/startkit-blog.php:70 single.php:40
+#: template-parts/content-page.php:31 template-parts/content.php:33
+#: template-parts/content-search.php:31 template-parts/content-page_grid.php:45
+msgid "Read More"
+msgstr "Прочитать больше"
+
+#: sections/startkit-breadcrumb.php:22
+msgid "Yearly Archives: %s"
+msgstr "Годовые архивы: %s"
+
+#: sections/startkit-breadcrumb.php:18
+msgid "Monthly Archives: %s"
+msgstr "Месячные архивы: %s"
+
+#: sections/startkit-breadcrumb.php:14
+msgid "Daily Archives: %s"
+msgstr "Ежедневные архивы: %s"
+
+#: comments.php:82
+msgid "Comments are closed."
+msgstr "Обсуждение закрыто."
+
+#: comments.php:48 comments.php:69
+msgid "Newer Comments"
+msgstr "Следующие комментарии"
+
+#: comments.php:47 comments.php:68
+msgid "Older Comments"
+msgstr "Предыдущие комментарии"
+
+#: comments.php:44 comments.php:65
+msgid "Comment navigation"
+msgstr "Навигация по комментариям"
+
+#. Author URI of the theme
+msgid "https://www.nayrathemes.com/"
+msgstr "https://www.nayrathemes.com/"
+
+#. Theme URI of the theme
+msgid "https://www.nayrathemes.com/startkit-free/"
+msgstr "https://www.nayrathemes.com/startkit-free/"
+
+#. Author of the theme
+msgid "Nayra Themes"
+msgstr "Nayra Themes"
